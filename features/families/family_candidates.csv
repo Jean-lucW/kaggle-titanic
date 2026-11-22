@@ -1,0 +1,594 @@
+PassengerId A,PassengerId B,Role of B,Surname,Ticket,Cabin,Pclass,Embarked,Fare,Score
+2,1126,sibling or spouse,True,True,True,True,True,True,6
+4,138,sibling or spouse,True,True,True,True,True,True,6
+11,395,parent or child,True,True,True,True,True,True,6
+11,1009,sibling or spouse,True,True,True,True,True,True,6
+28,89,sibling or spouse,True,True,True,True,True,True,6
+28,342,sibling or spouse,True,True,True,True,True,True,6
+28,439,parent or child,True,True,True,True,True,True,6
+28,945,sibling or spouse,True,True,True,True,True,True,6
+28,961,parent or child,True,True,True,True,True,True,6
+32,1208,sibling or spouse,True,True,True,True,True,True,6
+53,646,sibling or spouse,True,True,True,True,True,True,6
+63,231,sibling or spouse,True,True,True,True,True,True,6
+89,342,sibling or spouse,True,True,True,True,True,True,6
+89,439,parent or child,True,True,True,True,True,True,6
+89,945,sibling or spouse,True,True,True,True,True,True,6
+89,961,parent or child,True,True,True,True,True,True,6
+93,906,sibling or spouse,True,True,True,True,True,True,6
+98,1242,parent or child,True,True,True,True,True,True,6
+103,125,parent or child,True,True,True,True,True,True,6
+119,300,parent or child,True,True,True,True,True,True,6
+119,1076,parent,True,True,True,True,True,True,6
+149,194,parent or child,True,True,True,True,True,True,6
+149,341,parent or child,True,True,True,True,True,True,6
+152,337,sibling or spouse,True,True,True,True,True,True,6
+167,357,parent or child,True,True,True,True,True,True,6
+184,619,sibling or spouse,True,True,True,True,True,True,6
+184,1070,parent or child,True,True,True,True,True,True,6
+184,1218,sibling or spouse,True,True,True,True,True,True,6
+194,341,sibling or spouse,True,True,True,True,True,True,6
+206,252,parent,True,True,True,True,True,True,6
+216,394,sibling or spouse,True,True,True,True,True,True,6
+225,487,sibling or spouse,True,True,True,True,True,True,6
+246,413,spouse,True,True,True,True,True,True,6
+246,1303,spouse,True,True,True,True,True,True,6
+249,872,sibling or spouse,True,True,True,True,True,True,6
+263,559,sibling or spouse,True,True,True,True,True,True,6
+292,485,sibling or spouse,True,True,True,True,True,True,6
+298,306,sibling or spouse or parent or child,True,True,True,True,True,True,6
+298,499,sibling or spouse or parent or child,True,True,True,True,True,True,6
+298,1198,sibling or spouse or parent or child,True,True,True,True,True,True,6
+300,1076,parent,True,True,True,True,True,True,6
+306,499,sibling or spouse or parent or child,True,True,True,True,True,True,6
+306,1198,sibling or spouse or parent or child,True,True,True,True,True,True,6
+308,506,sibling or spouse,True,True,True,True,True,True,6
+312,743,sibling or spouse,True,True,True,True,True,True,6
+312,916,parent or child,True,True,True,True,True,True,6
+312,956,sibling or spouse,True,True,True,True,True,True,6
+312,1034,parent or child,True,True,True,True,True,True,6
+320,1088,parent or child,True,True,True,True,True,True,6
+320,1134,sibling or spouse,True,True,True,True,True,True,6
+330,524,parent or child,True,True,True,True,True,True,6
+342,439,parent or child,True,True,True,True,True,True,6
+342,945,sibling or spouse,True,True,True,True,True,True,6
+342,961,parent or child,True,True,True,True,True,True,6
+367,1128,sibling or spouse,True,True,True,True,True,True,6
+371,1256,sibling or spouse,True,True,True,True,True,True,6
+391,436,sibling or spouse or parent or child,True,True,True,True,True,True,6
+391,764,sibling or spouse or parent or child,True,True,True,True,True,True,6
+391,803,sibling or spouse or parent or child,True,True,True,True,True,True,6
+395,1009,parent or child,True,True,True,True,True,True,6
+413,1303,sibling or spouse,True,True,True,True,True,True,6
+435,578,sibling or spouse,True,True,True,True,True,True,6
+436,764,sibling or spouse or parent or child,True,True,True,True,True,True,6
+436,803,sibling or spouse or parent or child,True,True,True,True,True,True,6
+439,945,parent or child,True,True,True,True,True,True,6
+439,961,sibling or spouse,True,True,True,True,True,True,6
+446,1185,parent or child,True,True,True,True,True,True,6
+446,1266,parent or child,True,True,True,True,True,True,6
+454,850,sibling or spouse,True,True,True,True,True,True,6
+458,1137,sibling or spouse,True,True,True,True,True,True,6
+497,592,sibling or spouse,True,True,True,True,True,True,6
+499,1198,sibling or spouse or parent or child,True,True,True,True,True,True,6
+541,746,parent or child,True,True,True,True,True,True,6
+545,1131,sibling or spouse,True,True,True,True,True,True,6
+582,699,sibling or spouse,True,True,True,True,True,True,6
+588,1289,sibling or spouse,True,True,True,True,True,True,6
+619,1070,parent or child,True,True,True,True,True,True,6
+619,1218,sibling or spouse,True,True,True,True,True,True,6
+622,936,sibling or spouse,True,True,True,True,True,True,6
+670,713,sibling or spouse,True,True,True,True,True,True,6
+680,1235,parent or child,True,True,True,True,True,True,6
+691,782,sibling or spouse,True,True,True,True,True,True,6
+701,1094,sibling or spouse,True,True,True,True,True,True,6
+725,810,sibling or spouse,True,True,True,True,True,True,6
+742,988,sibling or spouse,True,True,True,True,True,True,6
+743,916,parent or child,True,True,True,True,True,True,6
+743,956,sibling or spouse,True,True,True,True,True,True,6
+743,1034,parent or child,True,True,True,True,True,True,6
+749,1074,sibling or spouse,True,True,True,True,True,True,6
+752,824,parent or child,True,True,True,True,True,True,6
+764,803,sibling or spouse or parent or child,True,True,True,True,True,True,6
+821,1200,sibling or spouse,True,True,True,True,True,True,6
+854,1283,parent or child,True,True,True,True,True,True,6
+904,1179,sibling or spouse,True,True,True,True,True,True,6
+916,956,parent or child,True,True,True,True,True,True,6
+916,1034,sibling or spouse,True,True,True,True,True,True,6
+942,1287,sibling or spouse,True,True,True,True,True,True,6
+945,961,parent or child,True,True,True,True,True,True,6
+956,1034,parent or child,True,True,True,True,True,True,6
+973,1006,sibling or spouse,True,True,True,True,True,True,6
+992,1069,sibling or spouse,True,True,True,True,True,True,6
+1070,1218,parent or child,True,True,True,True,True,True,6
+1088,1134,parent or child,True,True,True,True,True,True,6
+1110,1299,sibling or spouse,True,True,True,True,True,True,6
+1144,1164,sibling or spouse,True,True,True,True,True,True,6
+1185,1266,sibling or spouse,True,True,True,True,True,True,6
+8,25,sibling or spouse,True,True,False,True,True,True,5
+8,375,sibling or spouse,True,True,False,True,True,True,5
+8,568,parent or child,True,True,False,True,True,True,5
+8,1281,sibling or spouse,True,True,False,True,True,True,5
+9,173,parent or child,True,True,False,True,True,True,5
+9,870,parent or child,True,True,False,True,True,True,5
+10,123,sibling or spouse,True,True,False,True,True,True,5
+14,120,parent or child,True,True,False,True,True,True,5
+14,542,parent or child,True,True,False,True,True,True,5
+14,543,parent or child,True,True,False,True,True,True,5
+14,611,sibling or spouse,True,True,False,True,True,True,5
+14,814,parent or child,True,True,False,True,True,True,5
+14,851,parent or child,True,True,False,True,True,True,5
+17,172,sibling or spouse,True,True,False,True,True,True,5
+17,279,sibling or spouse,True,True,False,True,True,True,5
+17,788,sibling or spouse,True,True,False,True,True,True,5
+17,886,parent or child,True,True,False,True,True,True,5
+17,947,sibling or spouse,True,True,False,True,True,True,5
+19,1037,spouse,True,True,False,True,True,True,5
+25,375,sibling or spouse,True,True,False,True,True,True,5
+25,568,parent or child,True,True,False,True,True,True,5
+25,1281,sibling or spouse,True,True,False,True,True,True,5
+26,183,parent or child,True,True,False,True,True,True,5
+26,234,parent or child,True,True,False,True,True,True,5
+26,262,parent or child,True,True,False,True,True,True,5
+26,1046,parent or child,True,True,False,True,True,True,5
+26,1066,sibling or spouse,True,True,False,True,True,True,5
+26,1271,parent or child,True,True,False,True,True,True,5
+35,376,sibling or spouse,True,True,False,True,True,True,5
+36,384,sibling or spouse,True,True,False,True,True,True,5
+39,334,sibling or spouse,True,True,False,True,True,True,5
+40,126,sibling or spouse,True,True,False,True,True,True,5
+42,118,sibling or spouse,True,True,False,True,True,True,5
+44,609,sibling or spouse or parent or child,True,True,False,True,True,True,5
+44,686,sibling or spouse or parent or child,True,True,False,True,True,True,5
+44,1188,sibling or spouse or parent or child,True,True,False,True,True,True,5
+47,1165,sibling or spouse,True,True,False,True,True,True,5
+49,921,sibling or spouse,True,True,False,True,True,True,5
+49,1189,sibling or spouse,True,True,False,True,True,True,5
+50,354,sibling or spouse,True,True,False,True,True,True,5
+51,165,sibling or spouse,True,True,False,True,True,True,5
+51,267,sibling or spouse,True,True,False,True,True,True,5
+51,639,parent or child,True,True,False,True,True,True,5
+51,687,sibling or spouse,True,True,False,True,True,True,5
+51,825,sibling or spouse,True,True,False,True,True,True,5
+54,1169,sibling or spouse,True,True,False,True,True,True,5
+55,918,parent or child,True,True,False,True,True,True,5
+59,451,sibling or spouse or parent or child,True,True,False,True,True,True,5
+59,473,sibling or spouse or parent or child,True,True,False,True,True,True,5
+59,1142,sibling or spouse or parent or child,True,True,False,True,True,True,5
+60,72,sibling or spouse,True,True,False,True,True,True,5
+60,387,sibling or spouse,True,True,False,True,True,True,5
+60,481,sibling or spouse,True,True,False,True,True,True,5
+60,679,parent or child,True,True,False,True,True,True,5
+60,684,sibling or spouse,True,True,False,True,True,True,5
+60,1031,parent or child,True,True,False,True,True,True,5
+60,1032,sibling or spouse,True,True,False,True,True,True,5
+64,168,parent or child,True,True,False,True,True,True,5
+64,361,parent or child,True,True,False,True,True,True,5
+64,635,sibling or spouse,True,True,False,True,True,True,5
+64,643,sibling or spouse,True,True,False,True,True,True,5
+64,820,sibling or spouse,True,True,False,True,True,True,5
+66,710,sibling or spouse,True,True,False,True,True,True,5
+66,1117,parent or child,True,True,False,True,True,True,5
+72,387,sibling or spouse,True,True,False,True,True,True,5
+72,481,sibling or spouse,True,True,False,True,True,True,5
+72,679,parent or child,True,True,False,True,True,True,5
+72,684,sibling or spouse,True,True,False,True,True,True,5
+72,1031,parent or child,True,True,False,True,True,True,5
+72,1032,sibling or spouse,True,True,False,True,True,True,5
+74,1007,sibling or spouse,True,True,False,True,True,True,5
+79,324,parent or child,True,True,False,True,True,True,5
+79,899,parent or child,True,True,False,True,True,True,5
+86,207,spouse,True,True,False,True,True,True,5
+87,148,parent or child,True,True,False,True,True,True,5
+87,437,parent or child,True,True,False,True,True,True,5
+87,737,sibling or spouse,True,True,False,True,True,True,5
+87,1059,parent or child,True,True,False,True,True,True,5
+94,789,sibling or spouse or parent or child,True,True,False,True,True,True,5
+94,924,sibling or spouse or parent or child,True,True,False,True,True,True,5
+94,1246,sibling or spouse or parent or child,True,True,False,True,True,True,5
+99,652,parent or child,True,True,False,True,True,True,5
+100,317,sibling or spouse,True,True,False,True,True,True,5
+110,769,sibling or spouse,True,True,False,True,True,True,5
+112,241,sibling or spouse,True,True,False,True,True,True,5
+120,542,sibling or spouse,True,True,False,True,True,True,5
+120,543,sibling or spouse,True,True,False,True,True,True,5
+120,611,parent or child,True,True,False,True,True,True,5
+120,814,sibling or spouse,True,True,False,True,True,True,5
+120,851,sibling or spouse,True,True,False,True,True,True,5
+121,656,sibling or spouse,True,True,False,True,True,True,5
+121,666,sibling or spouse,True,True,False,True,True,True,5
+129,534,parent or child,True,True,False,True,True,True,5
+129,1309,sibling or spouse,True,True,False,True,True,True,5
+133,917,sibling or spouse,True,True,False,True,True,True,5
+134,993,sibling or spouse,True,True,False,True,True,True,5
+141,853,parent or child,True,True,False,True,True,True,5
+141,972,parent or child,True,True,False,True,True,True,5
+143,404,sibling or spouse,True,True,False,True,True,True,5
+148,437,sibling or spouse,True,True,False,True,True,True,5
+148,737,parent or child,True,True,False,True,True,True,5
+148,1059,sibling or spouse,True,True,False,True,True,True,5
+154,1084,parent or child,True,True,False,True,True,True,5
+154,1236,parent or child,True,True,False,True,True,True,5
+156,915,parent or child,True,True,False,True,True,True,5
+160,181,sibling or spouse,True,True,False,True,True,True,5
+160,202,sibling or spouse,True,True,False,True,True,True,5
+160,325,sibling or spouse,True,True,False,True,True,True,5
+160,793,sibling or spouse,True,True,False,True,True,True,5
+160,847,sibling or spouse,True,True,False,True,True,True,5
+160,864,sibling or spouse,True,True,False,True,True,True,5
+160,1080,sibling or spouse,True,True,False,True,True,True,5
+160,1234,parent or child,True,True,False,True,True,True,5
+160,1252,sibling or spouse,True,True,False,True,True,True,5
+160,1257,parent or child,True,True,False,True,True,True,5
+161,1017,parent or child,True,True,False,True,True,True,5
+165,267,sibling or spouse,True,True,False,True,True,True,5
+165,639,parent or child,True,True,False,True,True,True,5
+165,687,sibling or spouse,True,True,False,True,True,True,5
+165,825,sibling or spouse,True,True,False,True,True,True,5
+166,329,parent or child,True,True,False,True,True,True,5
+166,549,parent or child,True,True,False,True,True,True,5
+168,361,sibling or spouse,True,True,False,True,True,True,5
+168,635,parent or child,True,True,False,True,True,True,5
+168,643,parent or child,True,True,False,True,True,True,5
+168,820,parent or child,True,True,False,True,True,True,5
+172,279,sibling or spouse,True,True,False,True,True,True,5
+172,788,sibling or spouse,True,True,False,True,True,True,5
+172,886,parent or child,True,True,False,True,True,True,5
+172,947,sibling or spouse,True,True,False,True,True,True,5
+173,870,sibling or spouse,True,True,False,True,True,True,5
+177,230,sibling or spouse,True,True,False,True,True,True,5
+177,410,sibling or spouse,True,True,False,True,True,True,5
+177,486,sibling or spouse,True,True,False,True,True,True,5
+177,1024,parent or child,True,True,False,True,True,True,5
+181,202,sibling or spouse,True,True,False,True,True,True,5
+181,325,sibling or spouse,True,True,False,True,True,True,5
+181,793,sibling or spouse,True,True,False,True,True,True,5
+181,847,sibling or spouse,True,True,False,True,True,True,5
+181,864,sibling or spouse,True,True,False,True,True,True,5
+181,1080,sibling or spouse,True,True,False,True,True,True,5
+181,1234,parent or child,True,True,False,True,True,True,5
+181,1252,sibling or spouse,True,True,False,True,True,True,5
+181,1257,parent or child,True,True,False,True,True,True,5
+183,234,sibling or spouse,True,True,False,True,True,True,5
+183,262,sibling or spouse,True,True,False,True,True,True,5
+183,1046,sibling or spouse,True,True,False,True,True,True,5
+183,1066,parent or child,True,True,False,True,True,True,5
+183,1271,sibling or spouse,True,True,False,True,True,True,5
+185,1057,parent or child,True,True,False,True,True,True,5
+185,1286,parent,True,True,False,True,True,True,5
+187,365,sibling or spouse,True,True,False,True,True,True,5
+189,658,sibling or spouse,True,True,False,True,True,True,5
+202,325,sibling or spouse,True,True,False,True,True,True,5
+202,793,sibling or spouse,True,True,False,True,True,True,5
+202,847,sibling or spouse,True,True,False,True,True,True,5
+202,864,sibling or spouse,True,True,False,True,True,True,5
+202,1080,sibling or spouse,True,True,False,True,True,True,5
+202,1234,parent or child,True,True,False,True,True,True,5
+202,1252,sibling or spouse,True,True,False,True,True,True,5
+202,1257,parent or child,True,True,False,True,True,True,5
+230,410,sibling or spouse,True,True,False,True,True,True,5
+230,486,sibling or spouse,True,True,False,True,True,True,5
+230,1024,parent or child,True,True,False,True,True,True,5
+234,262,sibling or spouse,True,True,False,True,True,True,5
+234,1046,sibling or spouse,True,True,False,True,True,True,5
+234,1066,parent or child,True,True,False,True,True,True,5
+234,1271,sibling or spouse,True,True,False,True,True,True,5
+237,1140,sibling or spouse,True,True,False,True,True,True,5
+238,638,parent or child,True,True,False,True,True,True,5
+238,802,parent or child,True,True,False,True,True,True,5
+242,613,sibling or spouse,True,True,False,True,True,True,5
+248,756,parent or child,True,True,False,True,True,True,5
+250,855,sibling or spouse,True,True,False,True,True,True,5
+254,618,sibling or spouse,True,True,False,True,True,True,5
+255,425,parent or child,True,True,False,True,True,True,5
+255,1176,parent or child,True,True,False,True,True,True,5
+256,1053,parent or child,True,True,False,True,True,True,5
+256,1175,parent or child,True,True,False,True,True,True,5
+262,1046,sibling or spouse,True,True,False,True,True,True,5
+262,1066,parent or child,True,True,False,True,True,True,5
+262,1271,sibling or spouse,True,True,False,True,True,True,5
+263,586,parent or child,True,True,False,True,True,True,5
+267,639,parent or child,True,True,False,True,True,True,5
+267,687,sibling or spouse,True,True,False,True,True,True,5
+267,825,sibling or spouse,True,True,False,True,True,True,5
+269,333,parent or child,True,True,False,True,True,True,5
+273,447,parent or child,True,True,False,True,True,True,5
+276,766,sibling or spouse,True,True,False,True,True,True,5
+279,788,sibling or spouse,True,True,False,True,True,True,5
+279,886,parent or child,True,True,False,True,True,True,5
+279,947,sibling or spouse,True,True,False,True,True,True,5
+280,747,sibling or spouse,True,True,False,True,True,True,5
+280,1284,parent or child,True,True,False,True,True,True,5
+302,331,sibling or spouse,True,True,False,True,True,True,5
+302,1019,sibling or spouse,True,True,False,True,True,True,5
+309,875,sibling or spouse,True,True,False,True,True,True,5
+313,1041,sibling or spouse,True,True,False,True,True,True,5
+315,441,sibling or spouse,True,True,False,True,True,True,5
+315,536,parent or child,True,True,False,True,True,True,5
+319,857,parent or child,True,True,False,True,True,True,5
+319,1109,parent or child,True,True,False,True,True,True,5
+324,899,sibling or spouse,True,True,False,True,True,True,5
+325,793,sibling or spouse,True,True,False,True,True,True,5
+325,847,sibling or spouse,True,True,False,True,True,True,5
+325,864,sibling or spouse,True,True,False,True,True,True,5
+325,1080,sibling or spouse,True,True,False,True,True,True,5
+325,1234,parent or child,True,True,False,True,True,True,5
+325,1252,sibling or spouse,True,True,False,True,True,True,5
+325,1257,parent or child,True,True,False,True,True,True,5
+329,549,sibling or spouse,True,True,False,True,True,True,5
+331,1019,sibling or spouse,True,True,False,True,True,True,5
+335,661,spouse,True,True,False,True,True,True,5
+348,950,sibling or spouse,True,True,False,True,True,True,5
+349,490,sibling or spouse,True,True,False,True,True,True,5
+349,941,parent or child,True,True,False,True,True,True,5
+361,635,parent or child,True,True,False,True,True,True,5
+361,643,parent or child,True,True,False,True,True,True,5
+361,820,parent or child,True,True,False,True,True,True,5
+362,907,sibling or spouse,True,True,False,True,True,True,5
+363,703,parent or child,True,True,False,True,True,True,5
+375,568,parent or child,True,True,False,True,True,True,5
+375,1281,sibling or spouse,True,True,False,True,True,True,5
+378,1110,parent or child,True,True,False,True,True,True,5
+378,1299,parent or child,True,True,False,True,True,True,5
+382,623,parent or child,True,True,False,True,True,True,5
+382,1225,parent or child,True,True,False,True,True,True,5
+387,481,sibling or spouse,True,True,False,True,True,True,5
+387,679,parent or child,True,True,False,True,True,True,5
+387,684,sibling or spouse,True,True,False,True,True,True,5
+387,1031,parent or child,True,True,False,True,True,True,5
+387,1032,sibling or spouse,True,True,False,True,True,True,5
+406,1293,sibling or spouse,True,True,False,True,True,True,5
+408,832,sibling or spouse,True,True,False,True,True,True,5
+410,486,sibling or spouse,True,True,False,True,True,True,5
+410,1024,parent or child,True,True,False,True,True,True,5
+417,1086,parent or child,True,True,False,True,True,True,5
+417,1139,sibling or spouse,True,True,False,True,True,True,5
+420,596,parent or child,True,True,False,True,True,True,5
+420,800,parent or child,True,True,False,True,True,True,5
+424,617,sibling or spouse,True,True,False,True,True,True,5
+424,1093,parent or child,True,True,False,True,True,True,5
+425,1176,sibling or spouse,True,True,False,True,True,True,5
+427,1220,sibling or spouse,True,True,False,True,True,True,5
+432,640,sibling or spouse,True,True,False,True,True,True,5
+433,922,sibling or spouse,True,True,False,True,True,True,5
+437,737,parent or child,True,True,False,True,True,True,5
+437,1059,sibling or spouse,True,True,False,True,True,True,5
+441,536,parent or child,True,True,False,True,True,True,5
+449,470,sibling or spouse,True,True,False,True,True,True,5
+449,645,sibling or spouse,True,True,False,True,True,True,5
+449,859,parent or child,True,True,False,True,True,True,5
+451,473,sibling or spouse or parent or child,True,True,False,True,True,True,5
+451,1142,sibling or spouse or parent or child,True,True,False,True,True,True,5
+470,645,sibling or spouse,True,True,False,True,True,True,5
+470,859,parent or child,True,True,False,True,True,True,5
+473,1142,sibling or spouse or parent or child,True,True,False,True,True,True,5
+477,727,spouse,True,True,False,True,True,True,5
+480,896,parent,True,True,False,True,True,True,5
+481,679,parent or child,True,True,False,True,True,True,5
+481,684,sibling or spouse,True,True,False,True,True,True,5
+481,1031,parent or child,True,True,False,True,True,True,5
+481,1032,sibling or spouse,True,True,False,True,True,True,5
+486,1024,parent or child,True,True,False,True,True,True,5
+490,941,parent or child,True,True,False,True,True,True,5
+507,531,parent or child,True,True,False,True,True,True,5
+507,1095,parent or child,True,True,False,True,True,True,5
+514,912,sibling or spouse,True,True,False,True,True,True,5
+519,1082,sibling or spouse,True,True,False,True,True,True,5
+531,1095,sibling or spouse,True,True,False,True,True,True,5
+534,1309,parent or child,True,True,False,True,True,True,5
+542,543,sibling or spouse,True,True,False,True,True,True,5
+542,611,parent or child,True,True,False,True,True,True,5
+542,814,sibling or spouse,True,True,False,True,True,True,5
+542,851,sibling or spouse,True,True,False,True,True,True,5
+543,611,parent or child,True,True,False,True,True,True,5
+543,814,sibling or spouse,True,True,False,True,True,True,5
+543,851,sibling or spouse,True,True,False,True,True,True,5
+544,547,sibling or spouse,True,True,False,True,True,True,5
+550,1222,parent or child,True,True,False,True,True,True,5
+551,582,parent or child,True,True,False,True,True,True,5
+551,699,parent or child,True,True,False,True,True,True,5
+559,586,parent or child,True,True,False,True,True,True,5
+560,1152,sibling or spouse,True,True,False,True,True,True,5
+566,901,sibling or spouse,True,True,False,True,True,True,5
+568,1281,parent or child,True,True,False,True,True,True,5
+572,1248,sibling or spouse,False,True,True,True,True,True,5
+579,1258,sibling or spouse,True,True,False,True,True,True,5
+581,1133,parent or child,True,True,False,True,True,True,5
+595,1011,sibling or spouse,True,True,False,True,True,True,5
+596,800,sibling or spouse,True,True,False,True,True,True,5
+606,1251,sibling or spouse,True,True,False,True,True,True,5
+609,686,sibling or spouse or parent or child,True,True,False,True,True,True,5
+609,1188,sibling or spouse or parent or child,True,True,False,True,True,True,5
+611,814,parent or child,True,True,False,True,True,True,5
+611,851,parent or child,True,True,False,True,True,True,5
+616,755,sibling or spouse or parent or child,True,True,False,True,True,True,5
+616,1245,sibling or spouse or parent or child,True,True,False,True,True,True,5
+616,1277,sibling or spouse or parent or child,True,True,False,True,True,True,5
+617,1093,parent or child,True,True,False,True,True,True,5
+621,831,sibling or spouse,True,True,False,True,True,True,5
+623,1225,sibling or spouse,True,True,False,True,True,True,5
+635,643,sibling or spouse,True,True,False,True,True,True,5
+635,820,sibling or spouse,True,True,False,True,True,True,5
+638,802,sibling or spouse,True,True,False,True,True,True,5
+639,687,parent or child,True,True,False,True,True,True,5
+639,825,parent or child,True,True,False,True,True,True,5
+643,820,sibling or spouse,True,True,False,True,True,True,5
+645,859,parent or child,True,True,False,True,True,True,5
+656,666,sibling or spouse,True,True,False,True,True,True,5
+671,685,sibling or spouse,True,True,False,True,True,True,5
+671,1067,parent or child,True,True,False,True,True,True,5
+679,684,parent or child,True,True,False,True,True,True,5
+679,1031,sibling or spouse,True,True,False,True,True,True,5
+679,1032,parent or child,True,True,False,True,True,True,5
+684,1031,parent or child,True,True,False,True,True,True,5
+684,1032,sibling or spouse,True,True,False,True,True,True,5
+685,1067,parent or child,True,True,False,True,True,True,5
+686,1188,sibling or spouse or parent or child,True,True,False,True,True,True,5
+687,825,sibling or spouse,True,True,False,True,True,True,5
+692,932,parent or child,True,True,False,True,True,True,5
+710,1117,parent or child,True,True,False,True,True,True,5
+721,849,parent or child,True,True,False,True,True,True,5
+729,1167,sibling or spouse,True,True,False,True,True,True,5
+737,1059,parent or child,True,True,False,True,True,True,5
+744,1275,sibling or spouse,True,True,False,True,True,True,5
+747,1284,parent or child,True,True,False,True,True,True,5
+751,981,sibling or spouse,True,True,False,True,True,True,5
+751,1154,parent or child,True,True,False,True,True,True,5
+755,1245,sibling or spouse or parent or child,True,True,False,True,True,True,5
+755,1277,sibling or spouse or parent or child,True,True,False,True,True,True,5
+775,944,child,True,True,False,True,True,True,5
+784,889,sibling or spouse or parent or child,True,True,False,True,True,True,5
+784,925,sibling or spouse or parent or child,True,True,False,True,True,True,5
+784,1136,sibling or spouse or parent or child,True,True,False,True,True,True,5
+788,886,parent or child,True,True,False,True,True,True,5
+788,947,sibling or spouse,True,True,False,True,True,True,5
+789,924,sibling or spouse or parent or child,True,True,False,True,True,True,5
+789,1246,sibling or spouse or parent or child,True,True,False,True,True,True,5
+793,847,sibling or spouse,True,True,False,True,True,True,5
+793,864,sibling or spouse,True,True,False,True,True,True,5
+793,1080,sibling or spouse,True,True,False,True,True,True,5
+793,1234,parent or child,True,True,False,True,True,True,5
+793,1252,sibling or spouse,True,True,False,True,True,True,5
+793,1257,parent or child,True,True,False,True,True,True,5
+804,996,parent,True,True,False,True,True,True,5
+814,851,sibling or spouse,True,True,False,True,True,True,5
+818,828,parent or child,True,True,False,True,True,True,5
+818,1253,sibling or spouse,True,True,False,True,True,True,5
+828,1253,parent or child,True,True,False,True,True,True,5
+836,1071,parent or child,True,True,False,True,True,True,5
+836,1073,sibling or spouse,True,True,False,True,True,True,5
+847,864,sibling or spouse,True,True,False,True,True,True,5
+847,1080,sibling or spouse,True,True,False,True,True,True,5
+847,1234,parent or child,True,True,False,True,True,True,5
+847,1252,sibling or spouse,True,True,False,True,True,True,5
+847,1257,parent or child,True,True,False,True,True,True,5
+853,972,sibling or spouse,True,True,False,True,True,True,5
+856,1199,parent or child,True,True,False,True,True,True,5
+857,1109,sibling or spouse,True,True,False,True,True,True,5
+861,1201,spouse,True,True,False,True,True,True,5
+864,1080,sibling or spouse,True,True,False,True,True,True,5
+864,1234,parent or child,True,True,False,True,True,True,5
+864,1252,sibling or spouse,True,True,False,True,True,True,5
+864,1257,parent or child,True,True,False,True,True,True,5
+880,1042,parent or child,True,True,False,True,True,True,5
+886,947,parent or child,True,True,False,True,True,True,5
+889,925,sibling or spouse or parent or child,True,True,False,True,True,True,5
+889,1136,sibling or spouse or parent or child,True,True,False,True,True,True,5
+905,1105,sibling or spouse,True,True,False,True,True,True,5
+921,1189,sibling or spouse,True,True,False,True,True,True,5
+923,1211,sibling or spouse,True,True,False,True,True,True,5
+924,1246,sibling or spouse or parent or child,True,True,False,True,True,True,5
+925,1136,sibling or spouse or parent or child,True,True,False,True,True,True,5
+926,1014,sibling or spouse,True,True,False,True,True,True,5
+977,1141,sibling or spouse,True,True,False,True,True,True,5
+981,1154,parent or child,True,True,False,True,True,True,5
+982,1064,sibling or spouse,True,True,False,True,True,True,5
+1031,1032,parent or child,True,True,False,True,True,True,5
+1045,1155,parent or child,True,True,False,True,True,True,5
+1046,1066,parent or child,True,True,False,True,True,True,5
+1046,1271,sibling or spouse,True,True,False,True,True,True,5
+1051,1173,parent or child,True,True,False,True,True,True,5
+1051,1301,parent or child,True,True,False,True,True,True,5
+1053,1175,sibling or spouse,True,True,False,True,True,True,5
+1057,1286,spouse,True,True,False,True,True,True,5
+1066,1271,parent or child,True,True,False,True,True,True,5
+1071,1073,parent or child,True,True,False,True,True,True,5
+1078,1194,parent or child,True,True,False,True,True,True,5
+1080,1234,parent or child,True,True,False,True,True,True,5
+1080,1252,sibling or spouse,True,True,False,True,True,True,5
+1080,1257,parent or child,True,True,False,True,True,True,5
+1084,1236,sibling or spouse,True,True,False,True,True,True,5
+1086,1139,parent or child,True,True,False,True,True,True,5
+1173,1301,sibling or spouse,True,True,False,True,True,True,5
+1234,1252,parent or child,True,True,False,True,True,True,5
+1234,1257,sibling or spouse,True,True,False,True,True,True,5
+1245,1277,sibling or spouse or parent or child,True,True,False,True,True,True,5
+1252,1257,parent or child,True,True,False,True,True,True,5
+1260,1294,parent or child,True,True,False,True,True,True,5
+19,39,spouse,True,False,False,True,True,True,4
+19,334,spouse,True,False,False,True,True,True,4
+39,1037,spouse,True,False,False,True,True,True,4
+70,1268,sibling or spouse,True,False,False,True,True,True,4
+105,393,sibling or spouse,True,False,False,True,True,True,4
+114,403,sibling or spouse,True,False,False,True,True,True,4
+146,550,sibling or spouse,False,True,False,True,True,True,4
+146,1222,parent or child,False,True,False,True,True,True,4
+215,1013,sibling or spouse,True,False,False,True,True,True,4
+260,881,parent or child,False,True,False,True,True,True,4
+334,1037,spouse,True,False,False,True,True,True,4
+353,533,sibling or spouse,True,False,False,True,True,True,4
+353,1229,parent or child,True,False,False,True,True,True,4
+372,1124,sibling or spouse,True,False,False,True,True,True,4
+427,547,sibling or spouse,True,False,False,True,True,True,4
+452,491,sibling or spouse,True,False,False,True,True,True,4
+533,1229,parent or child,True,False,False,True,True,True,4
+547,1220,sibling or spouse,True,False,False,True,True,True,4
+690,780,parent or child,False,True,False,True,True,True,4
+730,910,sibling or spouse,True,False,False,True,True,True,4
+862,1262,sibling or spouse,True,False,False,True,True,True,4
+867,1112,sibling or spouse,True,False,False,True,True,True,4
+1,478,sibling or spouse,True,False,False,True,True,False,3
+11,206,child,False,False,True,True,True,False,3
+11,252,sibling or spouse,False,False,True,True,True,False,3
+14,69,parent or child,True,False,False,True,True,False,3
+14,1106,parent or child,True,False,False,True,True,False,3
+69,120,sibling or spouse,True,False,False,True,True,False,3
+69,542,sibling or spouse,True,False,False,True,True,False,3
+69,543,sibling or spouse,True,False,False,True,True,False,3
+69,611,parent or child,True,False,False,True,True,False,3
+69,814,sibling or spouse,True,False,False,True,True,False,3
+69,851,sibling or spouse,True,False,False,True,True,False,3
+69,1106,sibling or spouse,True,False,False,True,True,False,3
+86,105,spouse,True,False,False,True,True,False,3
+86,393,spouse,True,False,False,True,True,False,3
+120,1106,sibling or spouse,True,False,False,True,True,False,3
+176,1045,parent or child,True,False,False,True,True,False,3
+176,1155,sibling or spouse,True,False,False,True,True,False,3
+189,594,parent or child,True,False,False,True,True,False,3
+198,913,parent or child,True,False,False,True,True,False,3
+206,1009,parent,False,False,True,True,True,False,3
+252,395,parent or child,False,False,True,True,True,False,3
+252,1009,sibling or spouse,False,False,True,True,True,False,3
+268,1251,sibling or spouse,True,False,False,True,True,False,3
+408,507,parent or child,True,False,False,True,True,False,3
+438,530,child,True,False,False,True,True,False,3
+438,775,spouse,True,False,False,True,True,False,3
+438,944,child,True,False,False,True,True,False,3
+507,832,parent or child,True,False,False,True,True,False,3
+530,775,parent,True,False,False,True,True,False,3
+530,944,sibling or spouse,True,False,False,True,True,False,3
+541,1197,parent or child,True,False,False,True,True,False,3
+542,1106,sibling or spouse,True,False,False,True,True,False,3
+543,1106,sibling or spouse,True,False,False,True,True,False,3
+557,600,sibling or spouse,True,False,False,True,True,False,3
+566,1079,sibling or spouse,True,False,False,True,True,False,3
+572,969,sibling or spouse,False,False,True,True,True,False,3
+581,601,spouse,True,False,False,True,True,False,3
+594,658,parent or child,True,False,False,True,True,False,3
+601,1133,child,True,False,False,True,True,False,3
+611,1106,parent or child,True,False,False,True,True,False,3
+705,861,spouse,True,False,False,True,True,False,3
+705,1201,sibling or spouse,True,False,False,True,True,False,3
+727,923,spouse,True,False,False,True,True,False,3
+727,1211,spouse,True,False,False,True,True,False,3
+746,1197,sibling or spouse,True,False,False,True,True,False,3
+814,1106,sibling or spouse,True,False,False,True,True,False,3
+821,984,parent,True,False,False,True,True,False,3
+851,1106,sibling or spouse,True,False,False,True,True,False,3
+901,1079,sibling or spouse,True,False,False,True,True,False,3
+969,1248,sibling or spouse,False,False,True,True,True,False,3
+984,1200,child,True,False,False,True,True,False,3
+1170,1298,sibling or spouse,True,False,False,True,True,False,3
+148,671,child,True,False,False,False,True,False,2
+246,926,spouse,False,False,True,True,False,False,2
+329,671,sibling or spouse,True,False,False,False,True,False,2
+329,685,sibling or spouse,True,False,False,False,True,False,2
+329,1067,parent or child,True,False,False,False,True,False,2
+335,1296,sibling or spouse,True,False,False,True,False,False,2
+413,926,sibling or spouse,False,False,True,True,False,False,2
+437,671,child,True,False,False,False,True,False,2
+661,1296,spouse,True,False,False,True,False,False,2
+671,1059,parent,True,False,False,False,True,False,2
+905,1201,sibling or spouse,True,False,False,False,True,False,2
+926,1303,sibling or spouse,False,False,True,True,False,False,2
+1105,1201,sibling or spouse,True,False,False,False,True,False,2
